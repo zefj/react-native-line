@@ -1,0 +1,23 @@
+{
+  "name": "react-native-line",
+  "version": "1.0.0",
+  "description": "Line component for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zefj/react-native-line.git"
+  },
+  "keywords": [
+    "react-native",
+    "line"
+  ],
+  "author": "Filip Rec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zefj/react-native-line/issues"
+  },
+  "homepage": "https://github.com/zefj/react-native-line#readme"
+}
